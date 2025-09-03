@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ana Ulate</h1>
 <h3 align="center">Fullstack Developer | AI Enthusiast | Costa Rica 🇨🇷</h3>
 
 <p align="center">
@@ -8,15 +7,6 @@
 </p>
 
 ---
-
-### 👩‍💻 **About Me**
-- 💻 Fullstack Developer in transition from **Email Development** to **Web Development with AI**  
-- 🌱 Exploring **Python, Node.js, and AI APIs**  
-- 🧠 Passionate about **clean code and accessible interfaces**  
-- ☕ Coffee + Code = ❤️  
-
----
-
 ### 🛠️ **Technologies**
 
 **Frontend**  
